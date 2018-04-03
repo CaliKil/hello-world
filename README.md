@@ -1,2 +1,6 @@
 # hello-world
-Tutorial repository
+
+
+Hello,
+
+This is a repository with edits following the tutorial.
